@@ -1,3 +1,3 @@
 # FrameworkGameAndroid
 
-<b>Данный проект</b>
+Данный проект
